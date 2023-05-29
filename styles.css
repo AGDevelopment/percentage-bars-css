@@ -1,0 +1,102 @@
+﻿
+/* Content CSS */
+/* ---------------------------------------------------------------- */
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Verdana, Helvetica, Tahoma, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #D5D5D5; /* #ffffff #D5D5D5 */
+    background-color: #000;
+    font-size: 1em;
+    font-weight: 400;
+    width: 100%;
+}
+
+div {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-width: 1280px;
+}
+
+
+.h4 {
+    margin: 0 0 15px 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+/* Bar CSS*/
+/* ---------------------------------------------------------------- */
+
+/* overall length of bar */
+.container {
+    width: 90%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 0 30px 0;
+}
+
+/* bar container - light colored background */
+.bar-width {
+    width: 100%;
+    background-color: #D5D5D5; 
+}
+
+/* creates shaded percentage - yellow colored background */
+.bar-percentage {
+    width: 90%;
+    height: 5px;
+    background-color: #DFB842; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
